@@ -1,4 +1,4 @@
-# MovieReccomendation--Capstone
+# MovieRecommendation--Capstone
 
 Creating a movie recommendation system using the MovieLens dataset, 10M version (contains 10 million ratings). This project was a part of my capstone for HarvardX Data Science certificate.   
 
