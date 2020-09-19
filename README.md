@@ -17,6 +17,7 @@ The data set was about 150MB (too big to make an packaged-model on my PC) so a m
 ## Modelling 
 
 After extensive exploration of the effect of various movies, users,  and genres, the following model was selected  
+![alt text](https://github.com/icecap360/MovieRecommendation--Capstone/blob/master/CodeCogsEqn.png?raw=true)
 
 Linear regression could not be used to estimate the coefficients because the data set was too large for the computations on a personal computer. The coefficients were estimated by the mean of the residuals within a group, this approach is commonly known as a model based approach. 
 
